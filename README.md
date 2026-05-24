@@ -1,3 +1,4 @@
+<img width="1200" height="480" alt="Modern Cute Green Aesthetic Twitch Banner" src="https://github.com/user-attachments/assets/1b4b619c-e8f4-4fff-a298-3e3d8c599eb1" />
 ## Hi there 👋
 
 <!--
