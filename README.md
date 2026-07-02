@@ -2,7 +2,7 @@
  
 ## About Me
  
-- 🎨 &nbsp;I'm naturally visually oriented, I gravitate toward problems that can be *seen* and *solved*, blending creative design (a personalized art) with practical problem-solving in everything I create.
+- 🎨 &nbsp;I'm naturally visually oriented, I gravitate toward problems that can be *seen* and *solved*, blending creative design with practical problem-solving in everything I create.
 - 🌍 &nbsp;Actively contributing to open source. There's something quite remarkable about collaborating across different backgrounds, time zones, and cultures toward a shared goal.
 - 🧠 &nbsp;Sharpening my DSA and problem-solving skills.
 - ✍️ &nbsp;I post on [Medium](https://medium.com/@ByIsh) for my love of writing — my posts range from film analysis (yes, I'm a cinephile) to deep dives into history, sciences, and whatever rabbit hole I've fallen into lately.
