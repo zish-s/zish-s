@@ -5,7 +5,7 @@
 - 🎨 &nbsp;I'm naturally visually oriented, I gravitate toward problems that can be *seen* and *solved*, blending creative design with practical problem-solving in everything I create.
 - 🌍 &nbsp;Actively contributing to open source. There's something quite remarkable about collaborating across different backgrounds, time zones, and cultures toward a shared goal.
 - 🧠 &nbsp;Sharpening my DSA and problem-solving skills.
-- ✍️ &nbsp;I post on [Medium](https://medium.com/@ByIsh) for my love of writing — my posts range from film analysis (yes, I'm a cinephile) to deep dives into history, sciences, and whatever rabbit hole I've fallen into lately.
+- ✍️ &nbsp;I post on [DEV Community](https://dev.to/zishs) for my love of building — Over the period I have build multiple projects for hackathons and I write about the ones which turned out to be really useful! 
 ---
  
 ## Tech Stack
@@ -20,6 +20,5 @@
  
 ## Connect
  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ByIsh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zish-s)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-sharmaa-2a3495233/)
